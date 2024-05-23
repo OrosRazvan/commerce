@@ -1,0 +1,9 @@
+body {
+    padding: 10px;
+}
+
+.card mx-2{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
